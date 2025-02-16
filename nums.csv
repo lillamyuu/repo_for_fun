@@ -1,100 +1,100 @@
-num,russian,hebrew,german,swedish,norwegian,dutch,ukranian,belarusian,chinese,finnish,estonian
-1,один,אחד,eins,ett,en,één,один,адзін,一,yksi,üks
-2,два,שתיים,zwei,två,to,twee,два,два,二,kaksi,kaks
-3,три,שלוש,drei,tre,tre,drie,три,тры,三,kolme,kolm
-4,четыре,ארבע,vier,fyra,fire,vier,чотири,чацвёрты,四,neljä,neli
-5,пять,חמש,fünf,fem,fem,vijf,п’ять,пяць,五,viisi,viis
-6,шесть,שש,sechs,sex,seks,zes,шість,шэсць,六,kuusi,kuus
-7,семь,שבע,sieben,sju,sju,zeven,сім,сем,七,seitsemän,seitse
-8,восемь,שמונה,acht,åtta,åtte,acht,вісім,восем,八,kahdeksan,kaheksa
-9,девять,תשע,neun,nio,ni,negen,дев’ять,девяць,九,yhdeksän,üheksa
-10,десять,עשר,zehn,tio,ti,tien,десять,дзесяць,十,kymmenen,kümme
-11,одиннадцать,אחת עשרה,elf,elva,elleve,elf,одинадцять,адзінаццаць,十一,yhdestoista,üksteist
-12,двенадцать,שתים עשרה,zwölf,tolv,tolv,twaalf,дванадцять,дванаццаць,十二,kahdestoista,kaksteist
-13,тринадцать,שלוש עשרה,dreizehn,tretton,tretten,dertien,тринадцять,трынаццаць,十三,kolmastoista,kolmteist
-14,четырнадцать,ארבע עשרה,vierzehn,fjorton,fjorten,veertien,чотирнадцять,чатырынаццаць,十四,neljästoista,neliteist
-15,пятнадцать,חמש עשרה,fünfzehn,femton,femten,vijftien,п’ятнадцять,пятнаццаць,十五,viidestoista,viisteist
-16,шестнадцать,שש עשרה,sechzehn,sexton,seksten,zestien,шістнадцять,шаснаццаць,十六,kuudestoista,kuusteist
-17,семнадцать,שבע עשרה,siebzehn,sjutton,sytten,zeventien,сімнадцять,семнаццаць,十七,seitsemästoista,seitsmeteistkümme
-18,восемнадцать,שמונה עשרה,achtzehn,arton,atten,achttien,вісімнадцять,восемнаццаць,十八,kahdeksastoista,kaheksateistkümme
-19,девятнадцать,תשע עשרה,neunzehn,nitton,nitten,negentien,дев’ятнадцять,дзевятнаццаць,十九,yhdeksästoista,üheksateistkümme
-20,двадцать,עשרים,zwanzig,tjugo,tjue,twintig,двадцять,дваццаць,二十,kaksikymmentä,kakskümmend
-21,двадцать один,עשרים ואחת,einundzwanzig,tjugoett,tjueen,eenentwintig,двадцять один,двадзесяць адзін,二十一,kaksikymmentäyksi,kakskümmend üks
-22,двадцать два,עשרים ושתיים,zweiundzwanzig,tjugotvå,tjueto,tweeëntwintig,двадцять два,двадзесяць два,二十二,kaksikymmentäkaksi,kakskümmend kaks
-23,двадцать три,עשרים ושלוש,dreiundzwanzig,tjugotre,tjuetre,drieëntwintig,двадцять три,двадзесяць тры,二十三,kaksikymmentäkolme,kakskümmend kolm
-24,двадцать четыре,עשרים וארבע,vierundzwanzig,tjugofyra,tjuefire,vierentwintig,двадцять чотири,двадзесяць чатыры,二十四,kaksikymmentäneljä,kakskümmend neli
-25,двадцать пять,עשרים וחמש,fünfundzwanzig,tjugofem,tjuefem,vijfentwintig,двадцять п’ять,двадзесяць пяць,二十五,kaksikymmentäviisi,kakskümmend viis
-26,двадцать шесть,עשרים ושש,sechsundzwanzig,tjugosex,tjueseks,zesentwintig,двадцять шість,двадзесяць шэсць,二十六,kaksikymmentäkuusi,kakskümmend kuus
-27,двадцать семь,עשרים ושבע,siebenundzwanzig,tjugosju,tjuesju,zevenentwintig,двадцять сім,двадзесяць сем,二十七,kaksikymmentäseitsemän,kakskümmend seitse
-28,двадцать восемь,עשרים ושמונה,achtundzwanzig,tjugoåtta,tjueåtte,achtentwintig,двадцять вісім,двадзесяць восем,二十八,kaksikymmentäkahdeksan,kakskümmend kaheksa
-29,двадцать девять,עשרים ותשע,neunundzwanzig,tjugonio,tjueni,negenentwintig,двадцять дев’ять,двадзесяць дзевяць,二十九,kaksikymmentäyhdeksän,kakskümmend üheksa
-30,тридцать,שלושים,dreißig,trettio,tretti,dertig,тридцять,трыццаць,三十,kolmekymmentä,kolmkümmend
-31,тридцать один,שלושים ואחת,einunddreißig,trettioett,trettien,eenendertig,тридцять один,трыццаць адзін,三十一,kolmekymmentäyksi,kolmkümmend üks
-32,тридцать два,שלושים ושתיים,zweiunddreißig,trettiotvå,tretti to,tweeëndertig,тридцять два,трыццаць два,三十二,kolmekymmentäkaksi,kolmkümmend kaks
-33,тридцать три,שלושים ושלוש,dreiunddreißig,trettiotre,tretti tre,drieëndertig,тридцять три,трыццаць тры,三十三,kolmekymmentäkolme,kolmkümmend kolm
-34,тридцать четыре,שלושים וארבע,vierunddreißig,trettiofyra,tretti fire,vierendertig,тридцять чотири,трыццаць чатыры,三十四,kolmekymmentäneljä,kolmkümmend neli
-35,тридцать пять,שלושים וחמש,fünfunddreißig,trettiofem,tretti fem,vijfendertig,тридцять п’ять,трыццаць пяць,三十五,kolmekymmentäviisi,kolmkümmend viis
-36,тридцать шесть,שלושים ושש,sechsunddreißig,trettiosex,tretti seks,zesendertig,тридцять шість,трыццаць шэсць,三十六,kolmekymmentäkuusi,kolmkümmend kuus
-37,тридцать семь,שלושים ושבע,siebenunddreißig,trettiosju,tretti sju,zevenendertig,тридцять сім,трыццаць сем,三十七,kolmekymmentäseitsemän,kolmkümmend seitse
-38,тридцать восемь,שלושים ושמונה,achtunddreißig,trettioåtta,tretti åtte,achtendertig,тридцять вісім,трыццаць восем,三十八,kolmekymmentäkahdeksan,kolmkümmend kaheksa
-39,тридцать девять,שלושים ותשע,neununddreißig,trettionio,tretti ni,negenendertig,тридцять дев’ять,трыццаць дзевяць,三十九,kolmekymmentäyhdeksän,kolmkümmend üheksa
-40,сорок,ארבעים,vierzig,fyrtio,førti,veertig,сорок,сорак,四十,neljäkymmentä,nelikümmend
-41,сорок один,ארבעים ואחת,einundvierzig,fyrtioett,førti en,eenenveertig,сорок один,сорак адзін,四十一,neljäkymmentäyksi,nelikümmend üks
-42,сорок два,ארבעים ושתיים,zweiundvierzig,fyrtiotvå,førti to,tweeënveertig,сорок два,сорак два,四十二,neljäkymmentäkaksi,nelikümmend kaks
-43,сорок три,ארבעים ושלוש,dreiundvierzig,fyrtiotre,førti tre,drieënveertig,сорок три,сорак тры,四十三,neljäkymmentäkolme,nelikümmend kolm
-44,сорок четыре,ארבעים וארבע,vierundvierzig,fyrtiofyra,førti fire,vierenveertig,сорок чотири,сорак чатыры,四十四,neljäkymmentäneljä,nelikümmend neli
-45,сорок пять,ארבעים וחמש,fünfundvierzig,fyrtiofem,førti fem,vijfenveertig,сорок п’ять,сорак пяць,四十五,neljäkymmentäviisi,nelikümmend viis
-46,сорок шесть,ארבעים ושש,sechsundvierzig,fyrtiosex,førti seks,zesenveertig,сорок шість,сорак шэсць,四十六,neljäkymmentäkuusi,nelikümmend kuus
-47,сорок семь,ארבעים ושבע,siebenundvierzig,fyrtiosju,førti sju,zevenenveertig,сорок сім,сорак сем,四十七,neljäkymmentäseitsemän,nelikümmend seitse
-48,сорок восемь,ארבעים ושמונה,achtundvierzig,fyrtioåtta,førti åtte,achtenveertig,сорок вісім,сорак восем,四十八,neljäkymmentäkahdeksan,nelikümmend kaheksa
-49,сорок девять,ארבעים ותשע,neunundvierzig,fyrtionio,førti ni,negenenveertig,сорок дев’ять,сорак дзевяць,四十九,neljäkymmentäyhdeksän,nelikümmend üheksa
-50,пятьдесят,חמישים,fünfzig,femtio,fifty,vijftig,п’ятдесят,пяцьдзесят,五十,viisikymmentä,viiskümmend
-51,пятьдесят один,חמישים ואחת,einundfünfzig,femtioett,fifty en,eenenvijftig,п’ятдесят один,пяцьдзесяць адзін,五十一,viisikymmentäyksi,viiskümmend üks
-52,пятьдесят два,חמישים ושתיים,zweiundfünfzig,femtiotvå,fifty to,tweeënvijftig,п’ятдесят два,пяцьдзесяць два,五十二,viisikymmentäkaksi,viiskümmend kaks
-53,пятьдесят три,חמישים ושלוש,dreiundfünfzig,femtiotre,fifty tre,drieënvijftig,п’ятдесят три,пяцьдзесяць тры,五十三,viisikymmentäkolme,viiskümmend kolm
-54,пятьдесят четыре,חמישים וארבע,vierundfünfzig,femtiofyra,fifty fire,vierenvijftig,п’ятдесят чотири,пяцьдзесяць чатыры,五十四,viisikymmentäneljä,viiskümmend neli
-55,пятьдесят пять,חמישים וחמש,fünfundfünfzig,femtiofem,fifty fem,vijfenvijftig,п’ятдесят п’ять,пяцьдзесяць пяць,五十五,viisikymmentäviisi,viiskümmend viis
-56,пятьдесят шесть,חמישים ושש,sechsundfünfzig,femtiosex,fifty seks,zesenvijftig,п’ятдесят шість,пяцьдзесяць шэсць,五十六,viisikymmentäkuusi,viiskümmend kuus
-57,пятьдесят семь,חמישים ושבע,siebenundfünfzig,femtiosju,fifty sju,zevenenvijftig,п’ятдесят сім,пяцьдзесяць сем,五十七,viisikymmentäseitsemän,viiskümmend seitse
-58,пятьдесят восемь,חמישים ושמונה,achtundfünfzig,femtioåtta,fifty åtte,achtenvijftig,п’ятдесят вісім,пяцьдзесяць восем,五十八,viisikymmentäkahdeksan,viiskümmend kaheksa
-59,пятьдесят девять,חמישים ותשע,neunundfünfzig,femtionio,fifty ni,negenenvijftig,п’ятдесят дев’ять,пяцьдзесяць дзевяць,五十九,viisikymmentäyhdeksän,viiskümmend üheksa
-60,шестьдесят,שישים,sechzig,sextio,seksti,zestig,шістдесят,шэсцьдзесят,六十,kuusikymmentä,kuuskümmend
-61,шестьдесят один,שישים ואחת,einundsechzig,sextioett,seksti en,eenenzestig,шістдесят один,шэсцьдзесяць адзін,六十一,kuusikymmentäyksi,kuuskümmend üks
-62,шестьдесят два,שישים ושתיים,zweiundsechzig,sextiotvå,seksti to,tweeënzestig,шістдесят два,шэсцьдзесяць два,六十二,kuusikymmentäkaksi,kuuskümmend kaks
-63,шестьдесят три,שישים ושלוש,dreiundsechzig,sextiotre,seksti tre,drieënzestig,шістдесят три,шэсцьдзесяць тры,六十三,kuusikymmentäkolme,kuuskümmend kolm
-64,шестьдесят четыре,שישים וארבע,vierundsechzig,sextiofyra,seksti fire,vierenzestig,шістдесят чотири,шэсцьдзесяць чатыры,六十四,kuusikymmentäneljä,kuuskümmend neli
-65,шестьдесят пять,שישים וחמש,fünfundsechzig,sextiofem,seksti fem,vijfenzestig,шістдесят п’ять,шэсцьдзесяць пяць,六十五,kuusikymmentäviisi,kuuskümmend viis
-66,шестьдесят шесть,שישים ושש,sechsundsechzig,sextiosex,seksti seks,zesenzestig,шістдесят шість,шэсцьдзесяць шэсць,六十六,kuusikymmentäkuusi,kuuskümmend kuus
-67,шестьдесят семь,שישים ושבע,siebenundsechzig,sextiosju,seksti sju,zevenenzestig,шістдесят сім,шэсцьдзесяць сем,六十七,kuusikymmentäseitsemän,kuuskümmend seitse
-68,шестьдесят восемь,שישים ושמונה,achtundsechzig,sextioåtta,seksti åtte,achtenzestig,шістдесят вісім,шэсцьдзесяць восем,六十八,kuusikymmentäkahdeksan,kuuskümmend kaheksa
-69,шестьдесят девять,שישים ותשע,neunundsechzig,sextionio,seksti ni,negenenzestig,шістдесят дев’ять,шэсцьдзесяць дзевяць,六十九,kuusikymmentäyhdeksän,kuuskümmend üheksa
-70,семьдесят,שבעים,siebzig,sjuttio,sytti,zeventig,сімдесят,семдзесят,七十,seitsemänkymmentä,seitsekümmend
-71,семьдесят один,שבעים ואחת,einundsiebzig,sjuttioett,sytti en,éénenzeventig,сімдесят один,семдзесяць адзін,七十一,seitsemänkymmentäyksi,seitsekümmend üks
-72,семьдесят два,שבעים ושתיים,zweiundsiebzig,sjuttiotvå,sytti to,tweeënzeventig,сімдесят два,семдзесяць два,七十二,seitsemänkymmentäkaksi,seitsekümmend kaks
-73,семьдесят три,שבעים ושלוש,dreiundsiebzig,sjuttiotre,sytti tre,drieënzeventig,сімдесят три,семдзесяць тры,七十三,seitsemänkymmentäkolme,seitsekümmend kolm
-74,семьдесят четыре,שבעים וארבע,vierundsiebzig,sjuttiofyra,sytti fire,vierenzeventig,сімдесят чотири,семдзесяць чатыры,七十四,seitsemänkymmentäneljä,seitsekümmend neli
-75,семьдесят пять,שבעים וחמש,fünfundsiebzig,sjuttiofem,sytti fem,vijfenzeventig,сімдесят п’ять,семдзесяць пяць,七十五,seitsemänkymmentäviisi,seitsekümmend viis
-76,семьдесят шесть,שבעים ושש,sechsundsiebzig,sjuttiosex,sytti seks,zesenzeventig,сімдесят шість,семдзесяць шэсць,七十六,seitsemänkymmentäkuusi,seitsekümmend kuus
-77,семьдесят семь,שבעים ושבע,siebenundsiebzig,sjuttiosju,sytti sju,zevenenzeventig,сімдесят сім,семдзесяць сем,七十七,seitsemänkymmentäseitsemän,seitsekümmend seitse
-78,семьдесят восемь,שבעים ושמונה,achtundsiebzig,sjuttioåtta,sytti åtte,achtenzeventig,сімдесят вісім,семдзесяць восем,七十八,seitsemänkymmentäkahdeksan,seitsekümmend kaheksa
-79,семьдесят девять,שבעים ותשע,neunundsiebzig,sjuttionio,sytti ni,negenenzeventig,сімдесят дев’ять,семдзесяць дзевяць,七十九,seitsemänkymmentäyhdeksän,seitsekümmend üheksa
-80,восемьдесят,שמונים,achtzig,åttio,åtti,tachtig,вісімдесят,восемдзесят,八十,kahdeksankymmentä,kaheksakümmend
-81,восемьдесят один,שמונים ואחת,einundachtzig,åttioett,åtti en,éénen tachtig,вісімдесят один,восемдзесяць адзін,八十一,kahdeksankymmentäyksi,kaheksakümmend üks
-82,восемьдесят два,שמונים ושתיים,zweiundachtzig,åttiotvå,åtti to,tweeëntachtig,вісімдесят два,восемдзесяць два,八十二,kahdeksankymmentäkaksi,kaheksakümmend kaks
-83,восемьдесят три,שמונים ושלוש,dreiundachtzig,åttiotre,åtti tre,drieën tachtig,вісімдесят три,восемдзесяць тры,八十三,kahdeksankymmentäkolme,kaheksakümmend kolm
-84,восемьдесят четыре,שמונים וארבע,vierundachtzig,åttiofyra,åtti fire,vierentachtig,вісімдесят чотири,восемдзесяць чатыры,八十四,kahdeksankymmentäneljä,kaheksakümmend neli
-85,восемьдесят пять,שמונים וחמש,fünfundachtzig,åttiofem,åtti fem,vijfentachtig,вісімдесят п’ять,восемдзесяць пяць,八十五,kahdeksankymmentäviisi,kaheksakümmend viis
-86,восемьдесят шесть,שמונים ושש,sechsundachtzig,åttiosex,åtti seks,zesentachtig,вісімдесят шість,восемдзесяць шэсць,八十六,kahdeksankymmentäkuusi,kaheksakümmend kuus
-87,восемьдесят семь,שמונים ושבע,siebenundachtzig,åttiosju,åtti sju,zeventachtig,вісімдесят сім,восемдзесяць сем,八十七,kahdeksankymmentäseitsemän,kaheksakümmend seitse
-88,восемьдесят восемь,שמונים ושמונה,achtundachtzig,åttioåtta,åtti åtte,achten tachtig,вісімдесят вісім,восемдзесяць восем,八十八,kahdeksankymmentäkahdeksan,kaheksakümmend kaheksa
-89,восемьдесят девять,שמונים ותשע,neunundachtzig,åttionio,åtti ni,negentachtig,вісімдесят дев’ять,восемдзесяць дзевяць,八十九,kahdeksankymmentäyhdeksän,kaheksakümmend üheksa
-90,девяносто,תשעים,neunzig,nittio,nitti,negentig,дев’яносто,дзевяноста,九十,yhdeksänkymmentä,üheksakümmend
-91,девяносто один,תשעים ואחת,einundneunzig,nittioett,nitti en,éénennegentig,дев’яносто один,дзевяноста адзін,九十一,yhdeksänkymmentäyksi,üheksakümmend üks
-92,девяносто два,תשעים ושתיים,zweiundneunzig,nittiotvå,nitti to,tweeënnegentig,дев’яносто два,дзевяноста два,九十二,yhdeksänkymmentäkaksi,üheksakümmend kaks
-93,девяносто три,תשעים ושלוש,dreiundneunzig,nittiotre,nitti tre,drieënnegentig,дев’яносто три,дзевяноста тры,九十三,yhdeksänkymmentäkolme,üheksakümmend kolm
-94,девяносто четыре,תשעים וארבע,vierundneunzig,nittiofyra,nitti fire,vierennegentig,дев’яносто чотири,дзевяноста чатыры,九十四,yhdeksänkymmentäneljä,üheksakümmend neli
-95,девяносто пять,תשעים וחמש,fünfundneunzig,nittiofem,nitti fem,vijfennegentig,дев’яносто п’ять,дзевяноста пяць,九十五,yhdeksänkymmentäviisi,üheksakümmend viis
-96,девяносто шесть,תשעים ושש,sechsundneunzig,nittiosex,nitti seks,zesennegentig,дев’яносто шість,дзевяноста шэсць,九十六,yhdeksänkymmentäkuusi,üheksakümmend kuus
-97,девяносто семь,תשעים ושבע,siebenundneunzig,nittiosju,nitti sju,zevenennegentig,дев’яносто сім,дзевяноста сем,九十七,yhdeksänkymmentäseitsemän,üheksakümmend seitse
-98,девяносто восемь,תשעים ושמונה,achtundneunzig,nittioåtta,nitti åtte,achtennegentig,дев’яносто вісім,дзевяноста восем,九十八,yhdeksänkymmentäkahdeksan,üheksakümmend kaheksa
-99,девяносто девять,תשעים ותשע,neunundneunzig,nittionio,nitti ni,negenennegentig,дев’яносто дев’ять,дзевяноста дзевяць,九十九,yhdeksänkymmentäyhdeksän,üheksakümmend üheksa
+num,russian,hebrew,german,swedish,norwegian,dutch,ukranian,belarusian,chinese,finnish,estonian,english,hindi,spanish,french,arabic,portuguese,bengali,urdu,indonesian,turkish,vietnamese
+1,один,אחד,eins,ett,en,één,один,адзін,一,yksi,üks,one,एक,uno,un,واحد,um,এক,ایک,satu,bir,một
+2,два,שתיים,zwei,två,to,twee,два,два,二,kaksi,kaks,two,दो,dos,deux,اثنان,dois,দুই,دو,dua,iki,hai
+3,три,שלוש,drei,tre,tre,drie,три,тры,三,kolme,kolm,three,तीन,tres,trois,ثلاثة,três,তিন,تین,tiga,üç,ba
+4,четыре,ארבע,vier,fyra,fire,vier,чотири,чацвёрты,四,neljä,neli,four,चार,cuatro,quatre,أربعة,quatro,চার,چار,empat,dört,bốn
+5,пять,חמש,fünf,fem,fem,vijf,п’ять,пяць,五,viisi,viis,five,पाँच,cinco,cinq,خمسة,cinco,পাঁচ,پانچ,lima,beş,năm
+6,шесть,שש,sechs,sex,seks,zes,шість,шэсць,六,kuusi,kuus,six,छह,seis,six,ستة,seis,ছয়,چھ,enam,altı,sáu
+7,семь,שבע,sieben,sju,sju,zeven,сім,сем,七,seitsemän,seitse,seven,सात,siete,sept,سبعة,sete,সাত,سات,tujuh,yedi,bảy
+8,восемь,שמונה,acht,åtta,åtte,acht,вісім,восем,八,kahdeksan,kaheksa,eight,आठ,ocho,huit,ثمانية,oito,আট,آٹھ,delapan,sekiz,tám
+9,девять,תשע,neun,nio,ni,negen,дев’ять,девяць,九,yhdeksän,üheksa,nine,नौ,nueve,neuf,تسعة,nove,নয়,نو,sembilan,dokuz,chín
+10,десять,עשר,zehn,tio,ti,tien,десять,дзесяць,十,kymmenen,kümme,ten,दस,diez,dix,عشرة,dez,দশ,دس,sepuluh,on,mười
+11,одиннадцать,אחת עשרה,elf,elva,elleve,elf,одинадцять,адзінаццаць,十一,yhdestoista,üksteist,eleven,ग्यारह,once,onze,أحد عشر,onze,এগারো,گیارہ,sebelas,on bir,mười một
+12,двенадцать,שתים עשרה,zwölf,tolv,tolv,twaalf,дванадцять,дванаццаць,十二,kahdestoista,kaksteist,twelve,बारह,doce,douze,اثنا عشر,doze,বারো,بارہ,dua belas,on iki,mười hai
+13,тринадцать,שלוש עשרה,dreizehn,tretton,tretten,dertien,тринадцять,трынаццаць,十三,kolmastoista,kolmteist,thirteen,तेरह,trece,treize,ثلاثة عشر,treze,তেরো,تیرہ,tiga belas,on üç,mười ba
+14,четырнадцать,ארבע עשרה,vierzehn,fjorton,fjorten,veertien,чотирнадцять,чатырынаццаць,十四,neljästoista,neliteist,fourteen,चौदह,catorce,quatorze,أربعة عشر,quatorze,চৌদ্দ,چودہ,empat belas,on dört,mười bốn
+15,пятнадцать,חמש עשרה,fünfzehn,femton,femten,vijftien,п’ятнадцять,пятнаццаць,十五,viidestoista,viisteist,fifteen,पंद्रह,quince,quinze,خمسة عشر,quinze,পনেরো,پندرہ,lima belas,on beş,mười lăm
+16,шестнадцать,שש עשרה,sechzehn,sexton,seksten,zestien,шістнадцять,шаснаццаць,十六,kuudestoista,kuusteist,sixteen,सोलह,dieciséis,seize,ستة عشر,dezesseis,ষোলো,سولہ,enam belas,on altı,mười sáu
+17,семнадцать,שבע עשרה,siebzehn,sjutton,sytten,zeventien,сімнадцять,семнаццаць,十七,seitsemästoista,seitsmeteistkümme,seventeen,सत्रह,diecisiete,dix-sept,سبعة عشر,dezessete,সতেরো,سترہ,tujuh belas,on yedi,mười bảy
+18,восемнадцать,שמונה עשרה,achtzehn,arton,atten,achttien,вісімнадцять,восемнаццаць,十八,kahdeksastoista,kaheksateistkümme,eighteen,अठारह,dieciocho,dix-huit,ثمانية عشر,dezoito,আঠারো,اٹھارہ,delapan belas,on sekiz,mười tám
+19,девятнадцать,תשע עשרה,neunzehn,nitton,nitten,negentien,дев’ятнадцять,дзевятнаццаць,十九,yhdeksästoista,üheksateistkümme,nineteen,उन्नीस,diecinueve,dix-neuf,تسعة عشر,dezenove,উনিশ,انیس,sembilan belas,on dokuz,mười chín
+20,двадцать,עשרים,zwanzig,tjugo,tjue,twintig,двадцять,дваццаць,二十,kaksikymmentä,kakskümmend,twenty,बीस,veinte,vingt,عشرون,vinte,বিশ,بیس,dua puluh,yirmi,hai mươi
+21,двадцать один,עשרים ואחת,einundzwanzig,tjugoett,tjueen,eenentwintig,двадцять один,двадзесяць адзін,二十一,kaksikymmentäyksi,kakskümmend üks,twenty one,इक्कीस,veintiuno,vingt et un,واحد وعشرون,vinte e um,একুশ,اکیس,dua puluh satu,yirmi bir,hai mươi mốt
+22,двадцать два,עשרים ושתיים,zweiundzwanzig,tjugotvå,tjueto,tweeëntwintig,двадцять два,двадзесяць два,二十二,kaksikymmentäkaksi,kakskümmend kaks,twenty two,बाईस,veintidós,vingt-deux,اثنان وعشرون,vinte e dois,বায়িশ,بائیس,dua puluh dua,yirmi iki,hai mươi hai
+23,двадцать три,עשרים ושלוש,dreiundzwanzig,tjugotre,tjuetre,drieëntwintig,двадцять три,двадзесяць тры,二十三,kaksikymmentäkolme,kakskümmend kolm,twenty three,तेईस,veintitrés,vingt-trois,ثلاثة وعشرون,vinte e três,তেইশ,تئیس,dua puluh tiga,yirmi üç,hai mươi ba
+24,двадцать четыре,עשרים וארבע,vierundzwanzig,tjugofyra,tjuefire,vierentwintig,двадцять чотири,двадзесяць чатыры,二十四,kaksikymmentäneljä,kakskümmend neli,twenty four,चौबीस,veinticuatro,vingt-quatre,أربعة وعشرون,vinte e quatro,চব্বিশ,چوبیس,dua puluh empat,yirmi dört,hai mươi bốn
+25,двадцать пять,עשרים וחמש,fünfundzwanzig,tjugofem,tjuefem,vijfentwintig,двадцять п’ять,двадзесяць пяць,二十五,kaksikymmentäviisi,kakskümmend viis,twenty five,पच्चीस,veinticinco,vingt-cinq,خمسة وعشرون,vinte e cinco,পঁচিশ,پچیس,dua puluh lima,yirmi beş,hai mươi lăm
+26,двадцать шесть,עשרים ושש,sechsundzwanzig,tjugosex,tjueseks,zesentwintig,двадцять шість,двадзесяць шэсць,二十六,kaksikymmentäkuusi,kakskümmend kuus,twenty six,छब्बीस,veintiséis,vingt-six,ستة وعشرون,vinte e seis,ছাব্বিশ,چھبیس,dua puluh enam,yirmi altı,hai mươi sáu
+27,двадцать семь,עשרים ושבע,siebenundzwanzig,tjugosju,tjuesju,zevenentwintig,двадцять сім,двадзесяць сем,二十七,kaksikymmentäseitsemän,kakskümmend seitse,twenty seven,सत्ताईस,veintisiete,vingt-sept,سبعة وعشرون,vinte e sete,সাতাশ,ستائیس,dua puluh tujuh,yirmi yedi,hai mươi bảy
+28,двадцать восемь,עשרים ושמונה,achtundzwanzig,tjugoåtta,tjueåtte,achtentwintig,двадцять вісім,двадзесяць восем,二十八,kaksikymmentäkahdeksan,kakskümmend kaheksa,twenty eight,अट्ठाईस,veintiocho,vingt-huit,ثمانية وعشرون,vinte e oito,আঠাশ,اٹھائیس,dua puluh delapan,yirmi sekiz,hai mươi tám
+29,двадцать девять,עשרים ותשע,neunundzwanzig,tjugonio,tjueni,negenentwintig,двадцять дев’ять,двадзесяць дзевяць,二十九,kaksikymmentäyhdeksän,kakskümmend üheksa,twenty nine,उनतीस,veintinueve,vingt-neuf,تسعة وعشرون,vinte e nove,উনত্রিশ,انتیس,dua puluh sembilan,yirmi dokuz,hai mươi chín
+30,тридцать,שלושים,dreißig,trettio,tretti,dertig,тридцять,трыццаць,三十,kolmekymmentä,kolmkümmend,thirty,तीस,treinta,trente,ثلاثون,trinta,ত্রিশ,تیس,tiga puluh,otuz,ba mươi
+31,тридцать один,שלושים ואחת,einunddreißig,trettioett,trettien,eenendertig,тридцять один,трыццаць адзін,三十一,kolmekymmentäyksi,kolmkümmend üks,thirty one,इकतीस,treinta y uno,trente et un,واحد وثلاثون,trinta e um,একত্রিশ,اکتیس,tiga puluh satu,otuz bir,ba mươi mốt
+32,тридцать два,שלושים ושתיים,zweiunddreißig,trettiotvå,tretti to,tweeëndertig,тридцять два,трыццаць два,三十二,kolmekymmentäkaksi,kolmkümmend kaks,thirty two,बत्तीस,treinta y dos,trente-deux,اثنان وثلاثون,trinta e dois,বত্রিশ,بتیس,tiga puluh dua,otuz iki,ba mươi hai
+33,тридцать три,שלושים ושלוש,dreiunddreißig,trettiotre,tretti tre,drieëndertig,тридцять три,трыццаць тры,三十三,kolmekymmentäkolme,kolmkümmend kolm,thirty three,तैंतीस,treinta y tres,trente-trois,ثلاثة وثلاثون,trinta e três,তেত্রিশ,تینتیس,tiga puluh tiga,otuz üç,ba mươi ba
+34,тридцать четыре,שלושים וארבע,vierunddreißig,trettiofyra,tretti fire,vierendertig,тридцять чотири,трыццаць чатыры,三十四,kolmekymmentäneljä,kolmkümmend neli,thirty four,चौंतीस,treinta y cuatro,trente-quatre,أربعة وثلاثون,trinta e quatro,চৌত্রিশ,چونتیس,tiga puluh empat,otuz dört,ba mươi bốn
+35,тридцать пять,שלושים וחמש,fünfunddreißig,trettiofem,tretti fem,vijfendertig,тридцять п’ять,трыццаць пяць,三十五,kolmekymmentäviisi,kolmkümmend viis,thirty five,पैंतीस,treinta y cinco,trente-cinq,خمسة وثلاثون,trinta e cinco,পঁইত্রিশ,پینتیس,tiga puluh lima,otuz beş,ba mươi lăm
+36,тридцать шесть,שלושים ושש,sechsunddreißig,trettiosex,tretti seks,zesendertig,тридцять шість,трыццаць шэсць,三十六,kolmekymmentäkuusi,kolmkümmend kuus,thirty six,छत्तीस,treinta y seis,trente-six,ستة وثلاثون,trinta e seis,ছত্রিশ,چھتیس,tiga puluh enam,otuz altı,ba mươi sáu
+37,тридцать семь,שלושים ושבע,siebenunddreißig,trettiosju,tretti sju,zevenendertig,тридцять сім,трыццаць сем,三十七,kolmekymmentäseitsemän,kolmkümmend seitse,thirty seven,सैंतीस,treinta y siete,trente-sept,سبعة وثلاثون,trinta e sete,সাতত্রিশ,سینتیس,tiga puluh tujuh,otuz yedi,ba mươi bảy
+38,тридцать восемь,שלושים ושמונה,achtunddreißig,trettioåtta,tretti åtte,achtendertig,тридцять вісім,трыццаць восем,三十八,kolmekymmentäkahdeksan,kolmkümmend kaheksa,thirty eight,अड़तीस,treinta y ocho,trente-huit,ثمانية وثلاثون,trinta e oito,আটত্রিশ,اڑتیس,tiga puluh delapan,otuz sekiz,ba mươi tám
+39,тридцать девять,שלושים ותשע,neununddreißig,trettionio,tretti ni,negenendertig,тридцять дев’ять,трыццаць дзевяць,三十九,kolmekymmentäyhdeksän,kolmkümmend üheksa,thirty nine,उनतालीस,treinta y nueve,trente-neuf,تسعة وثلاثون,trinta e nove,উনচল্লিশ,انتالیس,tiga puluh sembilan,otuz dokuz,ba mươi chín
+40,сорок,ארבעים,vierzig,fyrtio,førti,veertig,сорок,сорак,四十,neljäkymmentä,nelikümmend,forty,चालीस,cuarenta,quarante,أربعون,quarenta,চল্লিশ,چالیس,empat puluh,kırk,bốn mươi
+41,сорок один,ארבעים ואחת,einundvierzig,fyrtioett,førti en,eenenveertig,сорок один,сорак адзін,四十一,neljäkymmentäyksi,nelikümmend üks,forty one,इकतालीस,cuarenta y uno,quarante et un,واحد وأربعون,quarenta e um,একচল্লিশ,اکتالیس,empat puluh satu,kırk bir,bốn mươi mốt
+42,сорок два,ארבעים ושתיים,zweiundvierzig,fyrtiotvå,førti to,tweeënveertig,сорок два,сорак два,四十二,neljäkymmentäkaksi,nelikümmend kaks,forty two,बयालीस,cuarenta y dos,quarante-deux,اثنان وأربعون,quarenta e dois,বেয়াল্লিশ,بیالیس,empat puluh dua,kırk iki,bốn mươi hai
+43,сорок три,ארבעים ושלוש,dreiundvierzig,fyrtiotre,førti tre,drieënveertig,сорок три,сорак тры,四十三,neljäkymmentäkolme,nelikümmend kolm,forty three,तैंतालीस,cuarenta y tres,quarante-trois,ثلاثة وأربعون,quarenta e três,তেতাল্লিশ,تینتالیس,empat puluh tiga,kırk üç,bốn mươi ba
+44,сорок четыре,ארבעים וארבע,vierundvierzig,fyrtiofyra,førti fire,vierenveertig,сорок чотири,сорак чатыры,四十四,neljäkymmentäneljä,nelikümmend neli,forty four,चवालीस,cuarenta y cuatro,quarante-quatre,أربعة وأربعون,quarenta e quatro,চুয়াল্লিশ,چونتالیس,empat puluh empat,kırk dört,bốn mươi bốn
+45,сорок пять,ארבעים וחמש,fünfundvierzig,fyrtiofem,førti fem,vijfenveertig,сорок п’ять,сорак пяць,四十五,neljäkymmentäviisi,nelikümmend viis,forty five,पैंतालीस,cuarenta y cinco,quarante-cinq,خمسة وأربعون,quarenta e cinco,পঁইচাল্লিশ,پینتالیس,empat puluh lima,kırk beş,bốn mươi lăm
+46,сорок шесть,ארבעים ושש,sechsundvierzig,fyrtiosex,førti seks,zesenveertig,сорок шість,сорак шэсць,四十六,neljäkymmentäkuusi,nelikümmend kuus,forty six,छियालीस,cuarenta y seis,quarante-six,ستة وأربعون,quarenta e seis,ছেচল্লিশ,چھیالیس,empat puluh enam,kırk altı,bốn mươi sáu
+47,сорок семь,ארבעים ושבע,siebenundvierzig,fyrtiosju,førti sju,zevenenveertig,сорок сім,сорак сем,四十七,neljäkymmentäseitsemän,nelikümmend seitse,forty seven,सैंतालीस,cuarenta y siete,quarante-sept,سبعة وأربعون,quarenta e sete,সাতচল্লিশ,سینتالیس,empat puluh tujuh,kırk yedi,bốn mươi bảy
+48,сорок восемь,ארבעים ושמונה,achtundvierzig,fyrtioåtta,førti åtte,achtenveertig,сорок вісім,сорак восем,四十八,neljäkymmentäkahdeksan,nelikümmend kaheksa,forty eight,अड़तालीस,cuarenta y ocho,quarante-huit,ثمانية وأربعون,quarenta e oito,আটচল্লিশ,اڑتالیس,empat puluh delapan,kırk sekiz,bốn mươi tám
+49,сорок девять,ארבעים ותשע,neunundvierzig,fyrtionio,førti ni,negenenveertig,сорок дев’ять,сорак дзевяць,四十九,neljäkymmentäyhdeksän,nelikümmend üheksa,forty nine,उनचास,cuarenta y nueve,quarante-neuf,تسعة وأربعون,quarenta e nove,উনপঞ্চাশ,انچاس,empat puluh sembilan,kırk dokuz,bốn mươi chín
+50,пятьдесят,חמישים,fünfzig,femtio,fifty,vijftig,п’ятдесят,пяцьдзесят,五十,viisikymmentä,viiskümmend,fifty,पचास,cincuenta,cinquante,خمسون,cinquenta,পঞ্চাশ,پچاس,lima puluh,elli,năm mươi
+51,пятьдесят один,חמישים ואחת,einundfünfzig,femtioett,fifty en,eenenvijftig,п’ятдесят один,пяцьдзесяць адзін,五十一,viisikymmentäyksi,viiskümmend üks,fifty one,इक्यावन,cincuenta y uno,cinquante et un,واحد وخمسون,cinquenta e um,একান্ন,اکاون,lima puluh satu,elli bir,năm mươi mốt
+52,пятьдесят два,חמישים ושתיים,zweiundfünfzig,femtiotvå,fifty to,tweeënvijftig,п’ятдесят два,пяцьдзесяць два,五十二,viisikymmentäkaksi,viiskümmend kaks,fifty two,बावन,cincuenta y dos,cinquante-deux,اثنان وخمسون,cinquenta e dois,বাহান্ন,باون,lima puluh dua,elli iki,năm mươi hai
+53,пятьдесят три,חמישים ושלוש,dreiundfünfzig,femtiotre,fifty tre,drieënvijftig,п’ятдесят три,пяцьдзесяць тры,五十三,viisikymmentäkolme,viiskümmend kolm,fifty three,तिरपन,cincuenta y tres,cinquante-trois,ثلاثة وخمسون,cinquenta e três,তিপ্পান্ন,تریپن,lima puluh tiga,elli üç,năm mươi ba
+54,пятьдесят четыре,חמישים וארבע,vierundfünfzig,femtiofyra,fifty fire,vierenvijftig,п’ятдесят чотири,пяцьдзесяць чатыры,五十四,viisikymmentäneljä,viiskümmend neli,fifty four,चौवन,cincuenta y cuatro,cinquante-quatre,أربعة وخمسون,cinquenta e quatro,চুয়ান্ন,چون,lima puluh empat,elli dört,năm mươi bốn
+55,пятьдесят пять,חמישים וחמש,fünfundfünfzig,femtiofem,fifty fem,vijfenvijftig,п’ятдесят п’ять,пяцьдзесяць пяць,五十五,viisikymmentäviisi,viiskümmend viis,fifty five,पचपन,cincuenta y cinco,cinquante-cinq,خمسة وخمسون,cinquenta e cinco,পঞ্চান্ন,پچپن,lima puluh lima,elli beş,năm mươi lăm
+56,пятьдесят шесть,חמישים ושש,sechsundfünfzig,femtiosex,fifty seks,zesenvijftig,п’ятдесят шість,пяцьдзесяць шэсць,五十六,viisikymmentäkuusi,viiskümmend kuus,fifty six,छप्पन,cincuenta y seis,cinquante-six,ستة وخمسون,cinquenta e seis,ছাপ্পান্ন,چھپن,lima puluh enam,elli altı,năm mươi sáu
+57,пятьдесят семь,חמישים ושבע,siebenundfünfzig,femtiosju,fifty sju,zevenenvijftig,п’ятдесят сім,пяцьдзесяць сем,五十七,viisikymmentäseitsemän,viiskümmend seitse,fifty seven,सत्तावन,cincuenta y siete,cinquante-sept,سبعة وخمسون,cinquenta e sete,সাতান্ন,ستاون,lima puluh tujuh,elli yedi,năm mươi bảy
+58,пятьдесят восемь,חמישים ושמונה,achtundfünfzig,femtioåtta,fifty åtte,achtenvijftig,п’ятдесят вісім,пяцьдзесяць восем,五十八,viisikymmentäkahdeksan,viiskümmend kaheksa,fifty eight,अट्ठावन,cincuenta y ocho,cinquante-huit,ثمانية وخمسون,cinquenta e oito,আটান্ন,اٹھاون,lima puluh delapan,elli sekiz,năm mươi tám
+59,пятьдесят девять,חמישים ותשע,neunundfünfzig,femtionio,fifty ni,negenenvijftig,п’ятдесят дев’ять,пяцьдзесяць дзевяць,五十九,viisikymmentäyhdeksän,viiskümmend üheksa,fifty nine,उनसठ,cincuenta y nueve,cinquante-neuf,تسعة وخمسون,cinquenta e nove,উনষাট,انسٹھ,lima puluh sembilan,elli dokuz,năm mươi chín
+60,шестьдесят,שישים,sechzig,sextio,seksti,zestig,шістдесят,шэсцьдзесят,六十,kuusikymmentä,kuuskümmend,sixty,साठ,sesenta,soixante,ستون,sessenta,ষাট,ساٹھ,enam puluh,altmış,sáu mươi
+61,шестьдесят один,שישים ואחת,einundsechzig,sextioett,seksti en,eenenzestig,шістдесят один,шэсцьдзесяць адзін,六十一,kuusikymmentäyksi,kuuskümmend üks,sixty one,इकसठ,sesenta y uno,soixante et un,واحد وستون,sessenta e um,একষট্টি,اکسٹھ,enam puluh satu,altmış bir,sáu mươi mốt
+62,шестьдесят два,שישים ושתיים,zweiundsechzig,sextiotvå,seksti to,tweeënzestig,шістдесят два,шэсцьдзесяць два,六十二,kuusikymmentäkaksi,kuuskümmend kaks,sixty two,बासठ,sesenta y dos,soixante-deux,اثنان وستون,sessenta e dois,বাষট্টি,باسٹھ,enam puluh dua,altmış iki,sáu mươi hai
+63,шестьдесят три,שישים ושלוש,dreiundsechzig,sextiotre,seksti tre,drieënzestig,шістдесят три,шэсцьдзесяць тры,六十三,kuusikymmentäkolme,kuuskümmend kolm,sixty three,तिरसठ,sesenta y tres,soixante-trois,ثلاثة وستون,sessenta e três,তেষট্টি,تریسٹھ,enam puluh tiga,altmış üç,sáu mươi ba
+64,шестьдесят четыре,שישים וארבע,vierundsechzig,sextiofyra,seksti fire,vierenzestig,шістдесят чотири,шэсцьдзесяць чатыры,六十四,kuusikymmentäneljä,kuuskümmend neli,sixty four,चौंसठ,sesenta y cuatro,soixante-quatre,أربعة وستون,sessenta e quatro,চৌষট্টি,چونسٹھ,enam puluh empat,altmış dört,sáu mươi bốn
+65,шестьдесят пять,שישים וחמש,fünfundsechzig,sextiofem,seksti fem,vijfenzestig,шістдесят п’ять,шэсцьдзесяць пяць,六十五,kuusikymmentäviisi,kuuskümmend viis,sixty five,पैंसठ,sesenta y cinco,soixante-cinq,خمسة وستون,sessenta e cinco,পঁইষট্টি,پینسٹھ,enam puluh lima,altmış beş,sáu mươi lăm
+66,шестьдесят шесть,שישים ושש,sechsundsechzig,sextiosex,seksti seks,zesenzestig,шістдесят шість,шэсцьдзесяць шэсць,六十六,kuusikymmentäkuusi,kuuskümmend kuus,sixty six,छियासठ,sesenta y seis,soixante-six,ستة وستون,sessenta e seis,ছেষট্টি,چھسٹھ,enam puluh enam,altmış altı,sáu mươi sáu
+67,шестьдесят семь,שישים ושבע,siebenundsechzig,sextiosju,seksti sju,zevenenzestig,шістдесят сім,шэсцьдзесяць сем,六十七,kuusikymmentäseitsemän,kuuskümmend seitse,sixty seven,सड़सठ,sesenta y siete,soixante-sept,سبعة وستون,sessenta e sete,সাতষট্টি,سڑسٹھ,enam puluh tujuh,altmış yedi,sáu mươi bảy
+68,шестьдесят восемь,שישים ושמונה,achtundsechzig,sextioåtta,seksti åtte,achtenzestig,шістдесят вісім,шэсцьдзесяць восем,六十八,kuusikymmentäkahdeksan,kuuskümmend kaheksa,sixty eight,अड़सठ,sesenta y ocho,soixante-huit,ثمانية وستون,sessenta e oito,আটষট্টি,اڑسٹھ,enam puluh delapan,altmış sekiz,sáu mươi tám
+69,шестьдесят девять,שישים ותשע,neunundsechzig,sextionio,seksti ni,negenenzestig,шістдесят дев’ять,шэсцьдзесяць дзевяць,六十九,kuusikymmentäyhdeksän,kuuskümmend üheksa,sixty nine,उनहत्तर,sesenta y nueve,soixante-neuf,تسعة وستون,sessenta e nove,উনসত্তর,انہتر,enam puluh sembilan,altmış dokuz,sáu mươi chín
+70,семьдесят,שבעים,siebzig,sjuttio,sytti,zeventig,сімдесят,семдзесят,七十,seitsemänkymmentä,seitsekümmend,seventy,सत्तर,setenta,soixante-dix,سبعون,setenta,সত্তর,ستر,tujuh puluh,yetmiş,bảy mươi
+71,семьдесят один,שבעים ואחת,einundsiebzig,sjuttioett,sytti en,éénenzeventig,сімдесят один,семдзесяць адзін,七十一,seitsemänkymmentäyksi,seitsekümmend üks,seventy one,इकहत्तर,setenta y uno,soixante et onze,واحد وسبعون,setenta e um,একাত্তর,اکہتر,tujuh puluh satu,yetmiş bir,bảy mươi mốt
+72,семьдесят два,שבעים ושתיים,zweiundsiebzig,sjuttiotvå,sytti to,tweeënzeventig,сімдесят два,семдзесяць два,七十二,seitsemänkymmentäkaksi,seitsekümmend kaks,seventy two,बहत्तर,setenta y dos,soixante-douze,اثنان وسبعون,setenta e dois,বাহাত্তর,بہتر,tujuh puluh dua,yetmiş iki,bảy mươi hai
+73,семьдесят три,שבעים ושלוש,dreiundsiebzig,sjuttiotre,sytti tre,drieënzeventig,сімдесят три,семдзесяць тры,七十三,seitsemänkymmentäkolme,seitsekümmend kolm,seventy three,तिहत्तर,setenta y tres,soixante-treize,ثلاثة وسبعون,setenta e três,তিয়াত্তর,تہتر,tujuh puluh tiga,yetmiş üç,bảy mươi ba
+74,семьдесят четыре,שבעים וארבע,vierundsiebzig,sjuttiofyra,sytti fire,vierenzeventig,сімдесят чотири,семдзесяць чатыры,七十四,seitsemänkymmentäneljä,seitsekümmend neli,seventy four,चौहत्तर,setenta y cuatro,soixante-quatorze,أربعة وسبعون,setenta e quatro,চুয়াত্তর,چوہتر,tujuh puluh empat,yetmiş dört,bảy mươi bốn
+75,семьдесят пять,שבעים וחמש,fünfundsiebzig,sjuttiofem,sytti fem,vijfenzeventig,сімдесят п’ять,семдзесяць пяць,七十五,seitsemänkymmentäviisi,seitsekümmend viis,seventy five,पचहत्तर,setenta y cinco,soixante-quinze,خمسة وسبعون,setenta e cinco,পঁইচাত্তর,پچھتر,tujuh puluh lima,yetmiş beş,bảy mươi lăm
+76,семьдесят шесть,שבעים ושש,sechsundsiebzig,sjuttiosex,sytti seks,zesenzeventig,сімдесят шість,семдзесяць шэсць,七十六,seitsemänkymmentäkuusi,seitsekümmend kuus,seventy six,छिहत्तर,setenta y seis,soixante-seize,ستة وسبعون,setenta e seis,ছিয়াত্তর,چھہتر,tujuh puluh enam,yetmiş altı,bảy mươi sáu
+77,семьдесят семь,שבעים ושבע,siebenundsiebzig,sjuttiosju,sytti sju,zevenenzeventig,сімдесят сім,семдзесяць сем,七十七,seitsemänkymmentäseitsemän,seitsekümmend seitse,seventy seven,सतहत्तर,setenta y siete,soixante-dix-sept,سبعة وسبعون,setenta e sete,সাতাত্তর,ستتر,tujuh puluh tujuh,yetmiş yedi,bảy mươi bảy
+78,семьдесят восемь,שבעים ושמונה,achtundsiebzig,sjuttioåtta,sytti åtte,achtenzeventig,сімдесят вісім,семдзесяць восем,七十八,seitsemänkymmentäkahdeksan,seitsekümmend kaheksa,seventy eight,अठहत्तर,setenta y ocho,soixante-dix-huit,ثمانية وسبعون,setenta e oito,আটাত্তর,اٹھتر,tujuh puluh delapan,yetmiş sekiz,bảy mươi tám
+79,семьдесят девять,שבעים ותשע,neunundsiebzig,sjuttionio,sytti ni,negenenzeventig,сімдесят дев’ять,семдзесяць дзевяць,七十九,seitsemänkymmentäyhdeksän,seitsekümmend üheksa,seventy nine,उन्नासी,setenta y nueve,soixante-dix-neuf,تسعة وسبعون,setenta e nove,উনআশি,اناسی,tujuh puluh sembilan,yetmiş dokuz,bảy mươi chín
+80,восемьдесят,שמונים,achtzig,åttio,åtti,tachtig,вісімдесят,восемдзесят,八十,kahdeksankymmentä,kaheksakümmend,eighty,अस्सी,ochenta,quatre-vingts,ثمانون,oitenta,আশি,اسی,delapan puluh,seksen,tám mươi
+81,восемьдесят один,שמונים ואחת,einundachtzig,åttioett,åtti en,éénen tachtig,вісімдесят один,восемдзесяць адзін,八十一,kahdeksankymmentäyksi,kaheksakümmend üks,eighty one,इक्यासी,ochenta y uno,quatre-vingt-un,واحد وثمانون,oitenta e um,একাশি,اکیاسی,delapan puluh satu,seksen bir,tám mươi mốt
+82,восемьдесят два,שמונים ושתיים,zweiundachtzig,åttiotvå,åtti to,tweeëntachtig,вісімдесят два,восемдзесяць два,八十二,kahdeksankymmentäkaksi,kaheksakümmend kaks,eighty two,बयासी,ochenta y dos,quatre-vingt-deux,اثنان وثمانون,oitenta e dois,বিরাশি,بیاسی,delapan puluh dua,seksen iki,tám mươi hai
+83,восемьдесят три,שמונים ושלוש,dreiundachtzig,åttiotre,åtti tre,drieën tachtig,вісімдесят три,восемдзесяць тры,八十三,kahdeksankymmentäkolme,kaheksakümmend kolm,eighty three,तिरासी,ochenta y tres,quatre-vingt-trois,ثلاثة وثمانون,oitenta e três,তিরাশি,تراسی,delapan puluh tiga,seksen üç,tám mươi ba
+84,восемьдесят четыре,שמונים וארבע,vierundachtzig,åttiofyra,åtti fire,vierentachtig,вісімдесят чотири,восемдзесяць чатыры,八十四,kahdeksankymmentäneljä,kaheksakümmend neli,eighty four,चौरासी,ochenta y cuatro,quatre-vingt-quatre,أربعة وثمانون,oitenta e quatro,চুরাশি,چوراسی,delapan puluh empat,seksen dört,tám mươi bốn
+85,восемьдесят пять,שמונים וחמש,fünfundachtzig,åttiofem,åtti fem,vijfentachtig,вісімдесят п’ять,восемдзесяць пяць,八十五,kahdeksankymmentäviisi,kaheksakümmend viis,eighty five,पचासी,ochenta y cinco,quatre-vingt-cinq,خمسة وثمانون,oitenta e cinco,পঁইচাশি,پچاسی,delapan puluh lima,seksen beş,tám mươi lăm
+86,восемьдесят шесть,שמונים ושש,sechsundachtzig,åttiosex,åtti seks,zesentachtig,вісімдесят шість,восемдзесяць шэсць,八十六,kahdeksankymmentäkuusi,kaheksakümmend kuus,eighty six,छियासी,ochenta y seis,quatre-vingt-six,ستة وثمانون,oitenta e seis,ছিয়াশি,چھاسی,delapan puluh enam,seksen altı,tám mươi sáu
+87,восемьдесят семь,שמונים ושבע,siebenundachtzig,åttiosju,åtti sju,zeventachtig,вісімдесят сім,восемдзесяць сем,八十七,kahdeksankymmentäseitsemän,kaheksakümmend seitse,eighty seven,सत्तासी,ochenta y siete,quatre-vingt-sept,سبعة وثمانون,oitenta e sete,সাতাশি,ستاسی,delapan puluh tujuh,seksen yedi,tám mươi bảy
+88,восемьдесят восемь,שמונים ושמונה,achtundachtzig,åttioåtta,åtti åtte,achten tachtig,вісімдесят вісім,восемдзесяць восем,八十八,kahdeksankymmentäkahdeksan,kaheksakümmend kaheksa,eighty eight,अट्ठासी,ochenta y ocho,quatre-vingt-huit,ثمانية وثمانون,oitenta e oito,আটাশি,اٹھاسی,delapan puluh delapan,seksen sekiz,tám mươi tám
+89,восемьдесят девять,שמונים ותשע,neunundachtzig,åttionio,åtti ni,negentachtig,вісімдесят дев’ять,восемдзесяць дзевяць,八十九,kahdeksankymmentäyhdeksän,kaheksakümmend üheksa,eighty nine,नवासी,ochenta y nueve,quatre-vingt-neuf,تسعة وثمانون,oitenta e nove,উননব্বই,نواسی,delapan puluh sembilan,seksen dokuz,tám mươi chín
+90,девяносто,תשעים,neunzig,nittio,nitti,negentig,дев’яносто,дзевяноста,九十,yhdeksänkymmentä,üheksakümmend,ninety,नब्बे,noventa,quatre-vingt-dix,تسعون,noventa,নব্বই,نوے,sembilan puluh,doksan,chín mươi
+91,девяносто один,תשעים ואחת,einundneunzig,nittioett,nitti en,éénennegentig,дев’яносто один,дзевяноста адзін,九十一,yhdeksänkymmentäyksi,üheksakümmend üks,ninety one,इक्यानवे,noventa y uno,quatre-vingt-onze,واحد وتسعون,noventa e um,একানব্বই,اکیانوے,sembilan puluh satu,doksan bir,chín mươi mốt
+92,девяносто два,תשעים ושתיים,zweiundneunzig,nittiotvå,nitti to,tweeënnegentig,дев’яносто два,дзевяноста два,九十二,yhdeksänkymmentäkaksi,üheksakümmend kaks,ninety two,बानवे,noventa y dos,quatre-vingt-douze,اثنان وتسعون,noventa e dois,বিরানব্বই,بیانوے,sembilan puluh dua,doksan iki,chín mươi hai
+93,девяносто три,תשעים ושלוש,dreiundneunzig,nittiotre,nitti tre,drieënnegentig,дев’яносто три,дзевяноста тры,九十三,yhdeksänkymmentäkolme,üheksakümmend kolm,ninety three,तिरानवे,noventa y tres,quatre-vingt-treize,ثلاثة وتسعون,noventa e três,তিরানব্বই,ترانوے,sembilan puluh tiga,doksan üç,chín mươi ba
+94,девяносто четыре,תשעים וארבע,vierundneunzig,nittiofyra,nitti fire,vierennegentig,дев’яносто чотири,дзевяноста чатыры,九十四,yhdeksänkymmentäneljä,üheksakümmend neli,ninety four,चौरानवे,noventa y cuatro,quatre-vingt-quatorze,أربعة وتسعون,noventa e quatro,চুরানব্বই,چورانوے,sembilan puluh empat,doksan dört,chín mươi bốn
+95,девяносто пять,תשעים וחמש,fünfundneunzig,nittiofem,nitti fem,vijfennegentig,дев’яносто п’ять,дзевяноста пяць,九十五,yhdeksänkymmentäviisi,üheksakümmend viis,ninety five,पचानवे,noventa y cinco,quatre-vingt-quinze,خمسة وتسعون,noventa e cinco,পঁইচানব্বই,پچانوے,sembilan puluh lima,doksan beş,chín mươi lăm
+96,девяносто шесть,תשעים ושש,sechsundneunzig,nittiosex,nitti seks,zesennegentig,дев’яносто шість,дзевяноста шэсць,九十六,yhdeksänkymmentäkuusi,üheksakümmend kuus,ninety six,छियानवे,noventa y seis,quatre-vingt-seize,ستة وتسعون,noventa e seis,ছিয়ানব্বই,چھیانوے,sembilan puluh enam,doksan altı,chín mươi sáu
+97,девяносто семь,תשעים ושבע,siebenundneunzig,nittiosju,nitti sju,zevenennegentig,дев’яносто сім,дзевяноста сем,九十七,yhdeksänkymmentäseitsemän,üheksakümmend seitse,ninety seven,सतानवे,noventa y siete,quatre-vingt-dix-sept,سبعة وتسعون,noventa e sete,সাতানব্বই,ستانوے,sembilan puluh tujuh,doksan yedi,chín mươi bảy
+98,девяносто восемь,תשעים ושמונה,achtundneunzig,nittioåtta,nitti åtte,achtennegentig,дев’яносто вісім,дзевяноста восем,九十八,yhdeksänkymmentäkahdeksan,üheksakümmend kaheksa,ninety eight,अट्ठानवे,noventa y ocho,quatre-vingt-dix-huit,ثمانية وتسعون,noventa e oito,আটানব্বই,اٹھانوے,sembilan puluh delapan,doksan sekiz,chín mươi tám
+99,девяносто девять,תשעים ותשע,neunundneunzig,nittionio,nitti ni,negenennegentig,дев’яносто дев’ять,дзевяноста дзевяць,九十九,yhdeksänkymmentäyhdeksän,üheksakümmend üheksa,ninety nine,निन्यानवे,noventa y nueve,quatre-vingt-dix-neuf,تسعة وتسعون,noventa e nove,নিরানব্বই,ننانوے,sembilan puluh sembilan,doksan dokuz,chín mươi chín
